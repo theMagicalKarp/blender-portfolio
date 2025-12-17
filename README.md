@@ -26,5 +26,8 @@ https://www.blender.org/
 <p align="center">
   <img src="./projects/this_way/renders/2.png" width="400px"/>
   <img src="./projects/dunes/renders/2.png" width="400px"/>
+  <img src="./projects/chemical_plant/renders/11.png" width="800px"/>
+</p>
+<p align="center">
   <img src="./projects/silos/renders/6.png" width="400px"/>
 </p>
