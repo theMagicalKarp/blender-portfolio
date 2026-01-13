@@ -24,7 +24,8 @@ https://www.blender.org/
 ## Renders
 
 <p align="center">
-  <img src="./projects/hand/renders/2.png" width="800px"/>
+  <img src="./projects/hand/renders/3.png" width="800px"/>
+  <img src="./projects/head/renders/4.png" width="800px"/>
 </p>
 <p align="center">
   <img src="./projects/this_way/renders/2.png" width="400px"/>
