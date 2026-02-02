@@ -21,6 +21,12 @@ https://www.blender.org/
 > not for sharing or reusing content. Please respect the original creators’
 > licenses.
 
+## Projects
+
+- _Jan 8, 2026_ - [Head Sculpt](./projects/head)
+- _Nov 6, 2025_ - [This Way](./projects/this_way)
+- _Nov 4, 2025_ - [Silos](./projects/silos)
+
 ## Renders
 
 <p align="center">
