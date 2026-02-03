@@ -13,7 +13,7 @@ captivated me: a structure with ladders leading to fatal drops and doors opening
 into nothing. It embodied everything I find compelling about these spaces.
 
 <p align="center">
-  <img src="./references/reference.webp" width="200px"/>
+  <img src="./refs/1.webp" width="200px"/>
 </p>
 
 What draws me to liminal imagery is how it speaks to the same emotional register

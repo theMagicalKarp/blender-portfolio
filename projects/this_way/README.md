@@ -1,7 +1,7 @@
 # This Way
 
 <p align="center">
-  <img src="./renders/2.png" width="400px"/>
+  <img src="./renders/2.png" width="800px"/>
 </p>
 
 ## About This Work
@@ -21,7 +21,7 @@ new layer of meaning it perfectly embodied the idea of spaces built for
 transition but hostile to actual use.
 
 <p align="center">
-  <img src="./references/rgqqsr4wtbyf1.png" width="400px"/>
+  <img src="./refs/1.png" width="400px"/>
 </p>
 
 What really struck me about the scene was the carpet. You don't typically see
@@ -37,9 +37,9 @@ experience when looking at my render.
 
 ## My Process
 
-Like the silos project, the modeling work here was relatively
-straightforward simple geometric forms that required the shading and texturing
-to carry the visual weight.
+Like the silos project, the modeling work here was relatively straightforward
+simple geometric forms that required the shading and texturing to carry the
+visual weight.
 
 The escalator was the centerpiece, and I needed it to lead nowhere in a way that
 felt both intentional and wrong. Getting the proportions and angles right to
@@ -47,15 +47,15 @@ capture that unsettling quality took some iteration.
 
 The rubber handrails on the escalator became an interesting challenge. I
 experimented with subsurface scattering to capture how light interacts with that
-material, the way it has a slight translucency and warmth. This was new territory
-for me, and getting it to look right required quite a bit of tweaking.
+material, the way it has a slight translucency and warmth. This was new
+territory for me, and getting it to look right required quite a bit of tweaking.
 
 For the escalator steps, I used wave-generated textures to create the vertical
 grating pattern instead of relying on super detailed texture maps. This
 procedural approach felt more efficient and gave me better control over the
-result. I'm starting to appreciate how versatile procedural textures can
-be, they're like having an adjustable toolkit rather than being locked into
-whatever a texture file gives you.
+result. I'm starting to appreciate how versatile procedural textures can be,
+they're like having an adjustable toolkit rather than being locked into whatever
+a texture file gives you.
 
 The carpet, wood paneling, and overall lighting setup required attention to sell
 that retro, slightly off atmosphere. Everything needed to feel clean but also
