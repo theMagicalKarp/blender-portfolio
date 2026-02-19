@@ -76,12 +76,17 @@ I wouldn't otherwise have the capability to generate myself.
 ## Projects
 
 - _Jan 8, 2026_ - [Head Sculpt](./projects/head)
+- _Jan 1, 2026_ - [Hand Sculpt](./projects/hand)
+- _Dec 17, 2025_ - [Chemical Plant](./projects/chemical_plant)
 - _Nov 6, 2025_ - [This Way](./projects/this_way)
 - _Nov 5, 2025_ - [Dunes](./projects/dunes)
 - _Nov 4, 2025_ - [Silos](./projects/silos)
 
 ## Renders
 
+<p align="center">
+  <img src="./projects/silhouette/renders/9.png" width="400px"/>
+</p>
 <p align="center">
   <img src="./projects/gas_station/renders/9.png" width="800px"/>
   <img src="./projects/hand/renders/3.png" width="800px"/>
