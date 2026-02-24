@@ -8,6 +8,14 @@ different ideas through 3D art and digital renderings. After over a decade of
 programming, this has become my outlet to create something beyond code, to
 explore composition, shading, and lighting instead of logic.
 
+To be clear, I have no classical training or formal background in art, which is
+part of why I'm drawn to it right now. Much like when I was first introduced to
+programming back in 2010, there's an ocean of things to learn and be humbled by.
+I'm someone who is deeply curious, and my passions tend to drive that curiosity
+forward.
+
+_I'm not an artist, but I enjoy learning about and making art._
+
 ## What is Blender?
 
 _Blender_ is an open-source 3D creation suite for modeling, animation, and
