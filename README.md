@@ -83,6 +83,7 @@ I wouldn't otherwise have the capability to generate myself.
 
 ## Projects
 
+- _Feb 19, 2026_ - [Silhouette](./projects/silhouette/)
 - _Jan 30, 2026_ - [Gas Station](./projects/gas_station/)
 - _Jan 8, 2026_ - [Head Sculpt](./projects/head)
 - _Jan 1, 2026_ - [Hand Sculpt](./projects/hand)
